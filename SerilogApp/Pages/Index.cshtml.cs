@@ -19,7 +19,26 @@ namespace SerilogApp.Pages
 
         public void OnGet()
         {
+            _logger.LogInformation("You requested shit.");
 
+            try
+            {
+                for (int i = 0; i < 100; i++)
+                {
+                    if(i == 47)
+                    {
+                        throw new Exception("Demo exception");
+                    }
+                    else
+                    {
+                        _logger.LogInformation("The value of i is {iValue}", i);
+                    }
+                }
+            }
+            catch (Exception ex)
+            { 
+                _logger.LogError($"We caught this error: {ex}");
+            }
         }
     }
 }
