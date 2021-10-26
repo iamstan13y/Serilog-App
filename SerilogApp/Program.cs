@@ -22,8 +22,20 @@ namespace SerilogApp
             Log.Logger = new LoggerConfiguration()
                 .ReadFrom.Configuration(configuration)
                 .CreateLogger();
-               
-            CreateHostBuilder(args).Build().Run();
+
+            try
+            {
+                Log.Information("Application Starting Up");
+                CreateHostBuilder(args).Build().Run();
+            }
+            catch (Exception ex)
+            {
+                Log.Fatal(ex, "The app failed to start correctly!");
+            }
+            finally
+            {
+                Log.CloseAndFlush();
+            }
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
