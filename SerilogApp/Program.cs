@@ -16,7 +16,7 @@ namespace SerilogApp
         public static void Main(string[] args)
         {
             var configuration = new ConfigurationBuilder()
-                .AddJsonFile("appsettings.json")
+                .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
                 .Build();
 
             Log.Logger = new LoggerConfiguration()
