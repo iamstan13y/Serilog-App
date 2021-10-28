@@ -206,3 +206,159 @@
 10/27/2021 09:26:03 We caught this error: System.Exception: Demo exception
    at SerilogApp.Pages.IndexModel.OnGet() in C:\Users\Keith Stanley\source\repos\SerilogApp\SerilogApp\Pages\Index.cshtml.cs:line 33
 10/27/2021 09:26:03 HTTP "GET" "/" responded 200 in 1858.7111 ms
+10/27/2021 14:57:23 Application Starting Up
+10/27/2021 14:57:43 You requested shit.
+10/27/2021 14:57:43 The value of i is 0
+10/27/2021 14:57:43 The value of i is 1
+10/27/2021 14:57:43 The value of i is 2
+10/27/2021 14:57:43 The value of i is 3
+10/27/2021 14:57:43 The value of i is 4
+10/27/2021 14:57:43 The value of i is 5
+10/27/2021 14:57:43 The value of i is 6
+10/27/2021 14:57:43 The value of i is 7
+10/27/2021 14:57:43 The value of i is 8
+10/27/2021 14:57:43 The value of i is 9
+10/27/2021 14:57:43 The value of i is 10
+10/27/2021 14:57:43 The value of i is 11
+10/27/2021 14:57:43 The value of i is 12
+10/27/2021 14:57:43 The value of i is 13
+10/27/2021 14:57:43 The value of i is 14
+10/27/2021 14:57:43 The value of i is 15
+10/27/2021 14:57:43 The value of i is 16
+10/27/2021 14:57:43 The value of i is 17
+10/27/2021 14:57:43 The value of i is 18
+10/27/2021 14:57:43 The value of i is 19
+10/27/2021 14:57:43 The value of i is 20
+10/27/2021 14:57:43 The value of i is 21
+10/27/2021 14:57:43 The value of i is 22
+10/27/2021 14:57:43 The value of i is 23
+10/27/2021 14:57:43 The value of i is 24
+10/27/2021 14:57:43 The value of i is 25
+10/27/2021 14:57:43 The value of i is 26
+10/27/2021 14:57:43 The value of i is 27
+10/27/2021 14:57:43 The value of i is 28
+10/27/2021 14:57:43 The value of i is 29
+10/27/2021 14:57:43 The value of i is 30
+10/27/2021 14:57:43 The value of i is 31
+10/27/2021 14:57:43 The value of i is 32
+10/27/2021 14:57:43 The value of i is 33
+10/27/2021 14:57:43 The value of i is 34
+10/27/2021 14:57:43 The value of i is 35
+10/27/2021 14:57:43 The value of i is 36
+10/27/2021 14:57:43 The value of i is 37
+10/27/2021 14:57:43 The value of i is 38
+10/27/2021 14:57:43 The value of i is 39
+10/27/2021 14:57:43 The value of i is 40
+10/27/2021 14:57:43 The value of i is 41
+10/27/2021 14:57:43 The value of i is 42
+10/27/2021 14:57:43 The value of i is 43
+10/27/2021 14:57:43 The value of i is 44
+10/27/2021 14:57:43 The value of i is 45
+10/27/2021 14:57:43 The value of i is 46
+10/27/2021 14:57:44 We caught this error: System.Exception: Demo exception
+   at SerilogApp.Pages.IndexModel.OnGet() in C:\Users\Keith Stanley\source\repos\SerilogApp\SerilogApp\Pages\Index.cshtml.cs:line 33
+10/27/2021 14:57:46 HTTP "GET" "/" responded 200 in 5652.5160 ms
+10/27/2021 15:11:30 Application Starting Up
+10/27/2021 15:11:37 You requested shit.
+10/27/2021 15:11:37 The value of i is 0
+10/27/2021 15:11:37 The value of i is 1
+10/27/2021 15:11:37 The value of i is 2
+10/27/2021 15:11:37 The value of i is 3
+10/27/2021 15:11:37 The value of i is 4
+10/27/2021 15:11:37 The value of i is 5
+10/27/2021 15:11:37 The value of i is 6
+10/27/2021 15:11:37 The value of i is 7
+10/27/2021 15:11:37 The value of i is 8
+10/27/2021 15:11:37 The value of i is 9
+10/27/2021 15:11:37 The value of i is 10
+10/27/2021 15:11:37 The value of i is 11
+10/27/2021 15:11:37 The value of i is 12
+10/27/2021 15:11:37 The value of i is 13
+10/27/2021 15:11:37 The value of i is 14
+10/27/2021 15:11:37 The value of i is 15
+10/27/2021 15:11:37 The value of i is 16
+10/27/2021 15:11:37 The value of i is 17
+10/27/2021 15:11:37 The value of i is 18
+10/27/2021 15:11:37 The value of i is 19
+10/27/2021 15:11:37 The value of i is 20
+10/27/2021 15:11:37 The value of i is 21
+10/27/2021 15:11:37 The value of i is 22
+10/27/2021 15:11:37 The value of i is 23
+10/27/2021 15:11:37 The value of i is 24
+10/27/2021 15:11:37 The value of i is 25
+10/27/2021 15:11:37 The value of i is 26
+10/27/2021 15:11:37 The value of i is 27
+10/27/2021 15:11:37 The value of i is 28
+10/27/2021 15:11:37 The value of i is 29
+10/27/2021 15:11:37 The value of i is 30
+10/27/2021 15:11:37 The value of i is 31
+10/27/2021 15:11:37 The value of i is 32
+10/27/2021 15:11:37 The value of i is 33
+10/27/2021 15:11:37 The value of i is 34
+10/27/2021 15:11:37 The value of i is 35
+10/27/2021 15:11:37 The value of i is 36
+10/27/2021 15:11:37 The value of i is 37
+10/27/2021 15:11:37 The value of i is 38
+10/27/2021 15:11:37 The value of i is 39
+10/27/2021 15:11:37 The value of i is 40
+10/27/2021 15:11:37 The value of i is 41
+10/27/2021 15:11:37 The value of i is 42
+10/27/2021 15:11:37 The value of i is 43
+10/27/2021 15:11:37 The value of i is 44
+10/27/2021 15:11:37 The value of i is 45
+10/27/2021 15:11:37 The value of i is 46
+10/27/2021 15:11:37 We caught this error: System.Exception: Demo exception
+   at SerilogApp.Pages.IndexModel.OnGet() in C:\Users\Keith Stanley\source\repos\SerilogApp\SerilogApp\Pages\Index.cshtml.cs:line 33
+10/27/2021 15:11:37 HTTP "GET" "/" responded 200 in 766.3504 ms
+10/28/2021 11:16:51 Application Starting Up
+10/28/2021 11:17:11 You requested shit.
+10/28/2021 11:17:11 The value of i is 0
+10/28/2021 11:17:11 The value of i is 1
+10/28/2021 11:17:11 The value of i is 2
+10/28/2021 11:17:11 The value of i is 3
+10/28/2021 11:17:11 The value of i is 4
+10/28/2021 11:17:11 The value of i is 5
+10/28/2021 11:17:11 The value of i is 6
+10/28/2021 11:17:11 The value of i is 7
+10/28/2021 11:17:11 The value of i is 8
+10/28/2021 11:17:11 The value of i is 9
+10/28/2021 11:17:11 The value of i is 10
+10/28/2021 11:17:11 The value of i is 11
+10/28/2021 11:17:11 The value of i is 12
+10/28/2021 11:17:11 The value of i is 13
+10/28/2021 11:17:11 The value of i is 14
+10/28/2021 11:17:11 The value of i is 15
+10/28/2021 11:17:11 The value of i is 16
+10/28/2021 11:17:11 The value of i is 17
+10/28/2021 11:17:11 The value of i is 18
+10/28/2021 11:17:11 The value of i is 19
+10/28/2021 11:17:11 The value of i is 20
+10/28/2021 11:17:11 The value of i is 21
+10/28/2021 11:17:11 The value of i is 22
+10/28/2021 11:17:11 The value of i is 23
+10/28/2021 11:17:11 The value of i is 24
+10/28/2021 11:17:11 The value of i is 25
+10/28/2021 11:17:11 The value of i is 26
+10/28/2021 11:17:11 The value of i is 27
+10/28/2021 11:17:11 The value of i is 28
+10/28/2021 11:17:11 The value of i is 29
+10/28/2021 11:17:11 The value of i is 30
+10/28/2021 11:17:11 The value of i is 31
+10/28/2021 11:17:11 The value of i is 32
+10/28/2021 11:17:11 The value of i is 33
+10/28/2021 11:17:11 The value of i is 34
+10/28/2021 11:17:11 The value of i is 35
+10/28/2021 11:17:11 The value of i is 36
+10/28/2021 11:17:11 The value of i is 37
+10/28/2021 11:17:11 The value of i is 38
+10/28/2021 11:17:11 The value of i is 39
+10/28/2021 11:17:11 The value of i is 40
+10/28/2021 11:17:11 The value of i is 41
+10/28/2021 11:17:11 The value of i is 42
+10/28/2021 11:17:11 The value of i is 43
+10/28/2021 11:17:11 The value of i is 44
+10/28/2021 11:17:11 The value of i is 45
+10/28/2021 11:17:11 The value of i is 46
+10/28/2021 11:17:12 We caught this error: System.Exception: Demo exception
+   at SerilogApp.Pages.IndexModel.OnGet() in C:\Users\Keith Stanley\source\repos\SerilogApp\SerilogApp\Pages\Index.cshtml.cs:line 33
+10/28/2021 11:17:13 HTTP "GET" "/" responded 200 in 2798.6107 ms
